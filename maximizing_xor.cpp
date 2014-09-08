@@ -6,6 +6,7 @@ using namespace std;
 
 int maxXor(int _l, int _r)
 {
+    cout << _l << _r << endl;
     return 0;
 }
 
